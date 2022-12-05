@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* First */
+.first{
+    margin: 0px 0px;
+    padding: 1px 0px;
+    /* border: 2px solid black; */
+    height: 5vh;
+    background-color: #7a8c74;
+    
+}
+.first h2{
+
+    /* border: 2px solid black; */
+    width: 12vw;
+    margin: 0.4rem 2rem;
+    /* font-weight: bold; */
+    color: white;
+    /* filter: invert(-10); */
+}
+/* Second */
+.second{
+    color: #333;
+    /* border: 2px solid black; */
+    padding: 3.5px 0px;
+    height: 5.5vh;
+    text-align: center;
+    font-size: 17px;
+}
+.second h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Third */
+.third{
+    /* border: 2px solid black; */
+    width: 34vw;
+    height: 60vh;
+    margin: 5rem 32rem;
+}
+#th1{
+    display: flex;
+}
+.third #t1{
+    width: 30vw;
+    height: 3.7vh;
+}
+#merasearch{
+    width: 30vw;
+    height: 4.2vh;
+}
+#secsearch{
+    width: 30vw;
+    height: 4.2vh;
+}
+#sign{
+    cursor: pointer;
+    border: 1px solid black;
+    width: 33vw;
+    height: 4.2vh;
+    color: white;
+    background-color: #337ab7;
+    font-weight: bold;
+}
+#sign:hover{
+    background-color: #337ab7;
+}
+#l1{
+    margin: 1rem 0rem;
+    color: #337ab7;
+}
+#l1 a{
+    text-decoration: none;
+}
+#l2{
+    /* border: 2px solid black; */
+    width: 8vw;
+    text-align: center;
+    margin: -2rem 24rem;
+    color: #337ab7;
+}
+#l2 a{
+    text-decoration: none;
+}
+#l3{
+    /* border: 2px solid black; */
+    width: 11vw;
+    margin: 12rem -31rem;
+}
+#l3 a{
+    text-decoration: none;
+}
+i{
+    color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
